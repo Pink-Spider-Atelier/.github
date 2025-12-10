@@ -18,7 +18,7 @@
 
 ### 🧐 About The Atelier
 
-이곳은 **개발자 [본인 닉네임]**이 새로운 기술을 탐구하고, 코드로 실험하며(Experiment), 견고한 지식을 쌓아가는 **디지털 공방(Atelier)**입니다. 거미가 튼튼한 집을 짓듯, 기초부터 탄탄한 코드를 작성하는 것을 목표로 합니다.
+이곳은 **개발자 dev-minimalism**이 새로운 기술을 탐구하고, 코드로 실험하며(Experiment), 견고한 지식을 쌓아가는 **디지털 공방(Atelier)**입니다. 거미가 튼튼한 집을 짓듯, 기초부터 탄탄한 코드를 작성하는 것을 목표로 합니다.
 
 > *Coding is the art of weaving logic into reality.*
 
@@ -62,7 +62,7 @@
 <div align="center">
   <p>Thank you for visiting my Atelier! 🕷️💖</p>
   
-  <a href="https://github.com/[본인GitHubID]">
+  <a href="https://github.com/dev-minimalism">
     <img src="https://img.shields.io/badge/Contact-My_Profile-FF69B4?style=flat-square&logo=github&logoColor=white">
   </a>
 </div>
