@@ -55,6 +55,10 @@
   <img src="https://github-readme-stats.vercel.app/api?username=dev-minimalism&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=FF69B4&icon_color=FF69B4&text_color=c9d1d9" alt="Stats" />
 </div>
 
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=본인ID&theme=dark&hide_border=true&background=0d1117&ring=FF69B4&fire=FF69B4&currStreakNum=FF69B4&sideNums=FF69B4&currStreakLabel=FF69B4&dates=c9d1d9" alt="Streak Stats" />
+</div>
 <br>
 
 ---
