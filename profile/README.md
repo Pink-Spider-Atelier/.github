@@ -69,4 +69,8 @@
   <a href="https://github.com/dev-minimalism">
     <img src="https://img.shields.io/badge/Contact-My_Profile-FF69B4?style=flat-square&logo=github&logoColor=white">
   </a>
+
+  <div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=본인ID&theme=dark&hide_border=true&background=0d1117&ring=FF69B4&fire=FF69B4&currStreakNum=FF69B4&sideNums=FF69B4&currStreakLabel=FF69B4&dates=c9d1d9" alt="Streak Stats" />
+</div>
 </div>
